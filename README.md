@@ -6,3 +6,8 @@ __The main questions this project will focus on are__:
 2) What countries have the highest rankings? 
 3) Why are some countries more successful than other countries? 
 
+__Method__:
+ 1)Import the data / first inspection
+ 2)Merging and concatenating
+ 3)Data cleaning
+ 4) visualize data 
