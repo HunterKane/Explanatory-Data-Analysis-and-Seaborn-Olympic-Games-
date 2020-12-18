@@ -35,3 +35,17 @@ Concatenating points:
 - Rename column labels as there are blank spaces between labels and unintuitive labels 
 - Update missing values with appropriate country names
 - Filter out missing values 
+
+
+Q: What are the most succsseful countries?
+
+United States     5238
+Soviet Union      2489
+United Kingdom    1799
+Germany           1665
+France            1548
+Italy             1488
+Sweden            1477
+Canada            1274
+Australia         1204
+Hungary           1091
