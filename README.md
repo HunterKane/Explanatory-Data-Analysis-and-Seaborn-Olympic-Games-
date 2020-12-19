@@ -49,3 +49,9 @@ Sweden            1477
 Canada            1274
 Australia         1204
 Hungary           1091
+
+
+-USA is the highest ranking country collectivaly with 14% overall winnings of medals.
+-Soviet Union is 2nd ranked country collectivaly with 6% overall winnings of medals.
+-USA has the most gold, silver and bronze medals won(winter / summer medals combined) than any other country. 
+-Some countries perform well in the Summer games but poorly in the winter games (refer to graphs for further inspection)
