@@ -63,3 +63,16 @@ Hypothesis:
 - Higher the GDP the more successful the athletes
 - Larger population leads to more medals
 - Countries that have been participating longer in the games are more successful
+
+
+__Statistical Analysis and Hypothesis Testing with Scipy__
+ -Testing the relationships between countries GDP, population and political stability.
+
+__Method__:
+ - Test correlation methods Pearson / Spearman
+
+__Perform hypothesis test with Scipy__
+ - Hypothesis 1: There is no relationship between Total Medals and Population.
+ - Reject Hypothesis 1 -> There is a significant (positive) relationship between Total Medals and Population.
+ 
+ 
