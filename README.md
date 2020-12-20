@@ -75,4 +75,13 @@ __Perform hypothesis test with Scipy__
  - Hypothesis 1: There is no relationship between Total Medals and Population.
  - Reject Hypothesis 1 -> There is a significant (positive) relationship between Total Medals and Population.
  
+ - Hypothesis 2: There is no relationship between Total Medals and GDP per Capita.
+ - Reject Hypothesis 2 -> There is a significant(positive) relationship between Total Medals and GDP Capita.
+ 
+ - Hypothesis 3: There is no relationship between Total Medals and Participations.
+ - Reject Hypothesis 3 -> there is a significant (positive) relationship between Total Medals and Participations.
+ 
+ __Aggregating and Ranking__:  
+ - Differentiate between Summer and Winter game medals for each country
+ - What gender has more medals?
  
