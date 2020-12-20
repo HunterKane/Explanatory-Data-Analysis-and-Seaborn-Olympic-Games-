@@ -82,6 +82,21 @@ __Perform hypothesis test with Scipy__
  - Reject Hypothesis 3 -> there is a significant (positive) relationship between Total Medals and Participations.
  
  __Aggregating and Ranking__:  
- - Differentiate between Summer and Winter game medals for each country
- - What gender has more medals?
- 
+ Heatmap displays which country are more successful and for Summer or Winter games and displays the amount of medals each gender has won:
+
+- Differentiate between Summer and Winter game medals for each country 
+a: Countries where winter is more promiment tend to do better in winter games than summer games. 
+- What gender has more medals?
+a: Genrally males are have a higher success rate due to participations are more males.    
+
+
+__Summer vs Winter Games - Does Geographical Location Matter?__
+- Geographical and climatical location has a big impact on the overall success of a country in the Winter/Summer games.
+- Some countries are exposed to both hot and cold climates allowing them to participate in both games more successfully (USA, South Korea, East Germany).
+- Climate can influence what games that country focuses on.
+
+__Do Traditions matter?__
+- Some countries have a long history of sports that are more traditionally played in that country.
+a: Each country has sports that are better performed/ traditonally practiced. For example, Taekwondo is the national sport of South Korea and perfroms well at the olympics. Whereas USA it is not and has a very low ranking in that sport category.
+Must take into account what each country hold as a traditional sport n their own country and compare it to its ranking of success.
+
